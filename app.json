@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ReactNativeUnitConverter",
+    "slug": "ReactNativeUnitConverter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ReactNativeUnitConverter"
+}
